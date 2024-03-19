@@ -985,7 +985,7 @@ ul {
   background: rgba(26, 26, 26, 0.2);
 }
 .company-box-picture-area-mission {
-  background: url(https://github.com/mac-saitou/global-standard/blob/main/images/mission.png?raw=true) center center/cover;
+  background: url(/images/mission.png) center center/cover;
 }
 .company-box-picture-area-vision {
   background: url(/images/vision.png) center center/cover;
