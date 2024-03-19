@@ -877,7 +877,7 @@ ul {
   z-index: -1;
 }
 .page-top-company {
-  background: url(/images/about-us.png) top 58% center/cover;
+  background: url(../images/about-us.png) top 58% center/cover;
 }
 .page-top::before {
   content: "";
@@ -985,10 +985,10 @@ ul {
   background: rgba(26, 26, 26, 0.2);
 }
 .company-box-picture-area-mission {
-  background: url(/images/mission.png) center center/cover;
+  background: url(../images/mission.png) center center/cover;
 }
 .company-box-picture-area-vision {
-  background: url(/images/vision.png) center center/cover;
+  background: url(../images/vision.png) center center/cover;
 }
 .company-box-title-area {
   margin: 20px;
@@ -1282,7 +1282,7 @@ ul {
 }
 
 .page-top-service {
-  background: url(/images/service.png) top 58% center/cover;
+  background: url(../images/service.png) top 58% center/cover;
 }
 
 .service-program-bg-area {
