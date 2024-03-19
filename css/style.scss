@@ -818,7 +818,7 @@ ul {
   height: 250px;
   z-index: -1;
   &-company {
-    background: url(/images/about-us.png) top 58% center / cover;
+    background: url(../images/about-us.png) top 58% center / cover;
   }
   &::before {
     content: "";
@@ -915,10 +915,10 @@ ul {
       background: rgba(26, 26, 26, 0.2);
     }
     &-mission {
-      background: url(/images/mission.png) center center / cover;
+      background: url(../images/mission.png) center center / cover;
     }
     &-vision {
-      background: url(/images/vision.png) center center / cover;
+      background: url(../images/vision.png) center center / cover;
     }
   }
   &-title-area {
@@ -1189,7 +1189,7 @@ ul {
 
 //ここからservice.html------------------------------------------------------------------------------------
 .page-top-service {
-  background: url(/images/service.png) top 58% center / cover;
+  background: url(../images/service.png) top 58% center / cover;
 }
 .service-program {
   &-bg-area {
